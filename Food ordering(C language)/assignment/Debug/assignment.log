@@ -1,0 +1,6 @@
+﻿  foodmenu.c
+c:\users\ks lee\desktop\assignment(food menu)\assignment\foodmenu.c(155): warning C4101: 'ans': unreferenced local variable
+c:\users\ks lee\desktop\assignment(food menu)\assignment\foodmenu.c(254): warning C4013: 'choice' undefined; assuming extern returning int
+c:\users\ks lee\desktop\assignment(food menu)\assignment\foodmenu.c(279): warning C4715: 'choice': not all control paths return a value
+  assignment.vcxproj -> C:\Users\KS LEE\Desktop\assignment(food menu)\Debug\assignment.exe
+  assignment.vcxproj -> C:\Users\KS LEE\Desktop\assignment(food menu)\Debug\assignment.pdb (Partial PDB)
